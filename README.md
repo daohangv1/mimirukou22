@@ -1,5 +1,4 @@
 <li>【最新地址1】 <a href="https://gitlab.com/mimidaohang22" target="_blank">https://gitlab.com/mimidaohang22</a></li>
-<li>【最新地址2】 <a href="https://9uushe3.github.io" target="_blank">https://9uushe3.github.io</a></li>
 <li>【最新地址3】 <a href="https://lolimz.github.io" target="_blank">https://lolimz.github.io</a></li>
 <li>【最新地址4】 <a href="https://mimidaohang12.github.io" target="_blank">https://mimidaohang12.github.io</a></li>
 <li>【最新地址5】 <a href="https://haijiaowang1.github.io" target="_blank">https://haijiaowang1.github.io</a></li>
